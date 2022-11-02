@@ -1,4 +1,4 @@
-# Slope Game [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbushtrain460615.github.io%2FSlope-Source-code%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Slope Game [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23626262&icon=unity.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 Copy of the popular slope game designed to be hosted anywhere to bypass school blocks! Below I will cover two free and easy methods to clone and host this yourself, however if you wish to play, use either of the following links. If you use this repo, please star it so others can find it, and so I can see if yall want more!
 
 + [Hosted through Github Pages](https://github.com/cgolden15/Slope-Game)
